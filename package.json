@@ -1,0 +1,20 @@
+{
+  "name": "NLW_Heat_React",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/brunnooliver7/NLW_Heat_React.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/brunnooliver7/NLW_Heat_React/issues"
+  },
+  "homepage": "https://github.com/brunnooliver7/NLW_Heat_React#readme"
+}
